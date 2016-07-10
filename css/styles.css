@@ -175,7 +175,6 @@ ul.menu > li:hover > ul.submenu {
 	float: left;
 	position: relative;
 	width: 100%;
-/*	box-sizing: border-box;*/
 	border-right: 1px solid #c7cacf;
 	border-left:  1px solid #c7cacf;
 	background-color: #edeef0;
@@ -195,7 +194,6 @@ ul.menu > li:hover > ul.submenu {
 	position: relative;
 	width: 100%;
 	right: 58%;
-/*	box-sizing: border-box;*/
 	border-right: 1px solid #c7cacf;
 	border-left:  1px solid #c7cacf;
 	background-color: #edeef0;
